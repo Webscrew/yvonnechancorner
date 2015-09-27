@@ -3,6 +3,7 @@
     id          = "com.appheater.yvonnechancorner"
     versionCode = "10"
     version     = "1.0" >
+  <preference name="phonegap-version" value="3.5.0" /> 
   <name>Yvonne's Corner</name>
   <description>天生便愛吃，從小便很咀刁，長大後更甚；除了吃，還愛飲，特別愛紅酒；但愛吃愛喝又怕胖，只好拼命的做運動，努力地維持體重，只有這樣才可以吃足一輩子。 在我的文章裡，你未必會找到誇張的描述，但你所看到的味道都是最真實的。
 
