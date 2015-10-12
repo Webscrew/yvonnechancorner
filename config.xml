@@ -4,7 +4,7 @@
     versionCode = "10"
     version     = "1.0" >
   <preference name="phonegap-version" value="3.5.0" /> 
-  <name>Yvonne's Corner</name>
+  <name>Yvonne</name>
   <description>天生便愛吃，從小便很咀刁，長大後更甚；除了吃，還愛飲，特別愛紅酒；但愛吃愛喝又怕胖，只好拼命的做運動，努力地維持體重，只有這樣才可以吃足一輩子。 在我的文章裡，你未必會找到誇張的描述，但你所看到的味道都是最真實的。
 
 對味覺絕不輕易妥協，努力找尋屬於自己的味道。
@@ -16,7 +16,7 @@ Email: yvonnechan@asia.com</description>
   <preference name="DisallowOverscroll" value="true" />
   <preference name="InAppBrowserStorageEnabled" value="true"/>    
   <preference name="webviewbounce" value="false" />    
-  <preference name="LoadingDialog" value="Yvonne's Corner,Loading .. "/>  
+  <preference name="LoadingDialog" value="Yvonne,Loading .. "/>  
   <icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
   <icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
   <icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />
@@ -28,5 +28,5 @@ Email: yvonnechan@asia.com</description>
   <icon src="icons/winphone-icon.png" gap:platform="winphone" />
   <icon src="icons/winphone-tileicon.png" gap:platform="winphone" gap:role="background" />
   <gap:plugin name="org.apache.cordova.inappbrowser" source="npm" />
-  <gap:plugin name="org.apache.cordova.network-information" source="npm" />   
+  <gap:plugin name="org.apache.cordova.network-information" source="npm" />  
 </widget>
